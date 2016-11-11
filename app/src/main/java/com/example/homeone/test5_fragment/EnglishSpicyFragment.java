@@ -10,9 +10,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/**
- * Created by homeOne on 10/5/2016.
- */
+
 public class EnglishSpicyFragment extends Fragment {
 
     private Button mSpicyButton;
